@@ -2,5 +2,5 @@
 
 import real_browse
 import os
-os.chdir('/usr/share/doc/python')
+os.chdir('/sys')
 real_browse.main()
